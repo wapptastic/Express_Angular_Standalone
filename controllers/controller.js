@@ -46,4 +46,4 @@ $scope.updateTodo = function() {
  	})
 };
 
-}]);﻿
+}]);
